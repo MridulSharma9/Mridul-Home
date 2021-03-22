@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Mridul-Home/static/css/main.90f53972.chunk.css",
+    "main.js": "/Mridul-Home/static/js/main.16ae9cd5.chunk.js",
+    "main.js.map": "/Mridul-Home/static/js/main.16ae9cd5.chunk.js.map",
+    "runtime-main.js": "/Mridul-Home/static/js/runtime-main.b782f9e0.js",
+    "runtime-main.js.map": "/Mridul-Home/static/js/runtime-main.b782f9e0.js.map",
+    "static/css/2.e80bc768.chunk.css": "/Mridul-Home/static/css/2.e80bc768.chunk.css",
+    "static/js/2.b36ae353.chunk.js": "/Mridul-Home/static/js/2.b36ae353.chunk.js",
+    "static/js/2.b36ae353.chunk.js.map": "/Mridul-Home/static/js/2.b36ae353.chunk.js.map",
+    "static/js/3.1e7da010.chunk.js": "/Mridul-Home/static/js/3.1e7da010.chunk.js",
+    "static/js/3.1e7da010.chunk.js.map": "/Mridul-Home/static/js/3.1e7da010.chunk.js.map",
+    "index.html": "/Mridul-Home/index.html",
+    "static/css/2.e80bc768.chunk.css.map": "/Mridul-Home/static/css/2.e80bc768.chunk.css.map",
+    "static/css/main.90f53972.chunk.css.map": "/Mridul-Home/static/css/main.90f53972.chunk.css.map",
+    "static/js/2.b36ae353.chunk.js.LICENSE.txt": "/Mridul-Home/static/js/2.b36ae353.chunk.js.LICENSE.txt",
+    "static/media/Art2.70728c5d.jpg": "/Mridul-Home/static/media/Art2.70728c5d.jpg",
+    "static/media/Cluster.ed62246e.jpg": "/Mridul-Home/static/media/Cluster.ed62246e.jpg",
+    "static/media/ISTHISLOVE.b423c6f0.jpg": "/Mridul-Home/static/media/ISTHISLOVE.b423c6f0.jpg",
+    "static/media/LrgCluster.3d2785c4.jpg": "/Mridul-Home/static/media/LrgCluster.3d2785c4.jpg",
+    "static/media/Me.39cf5dd1.jpg": "/Mridul-Home/static/media/Me.39cf5dd1.jpg",
+    "static/media/Mountain2.4bdf7993.jpg": "/Mridul-Home/static/media/Mountain2.4bdf7993.jpg",
+    "static/media/Spotify.f09bd63c.jpg": "/Mridul-Home/static/media/Spotify.f09bd63c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b782f9e0.js",
+    "static/css/2.e80bc768.chunk.css",
+    "static/js/2.b36ae353.chunk.js",
+    "static/css/main.90f53972.chunk.css",
+    "static/js/main.16ae9cd5.chunk.js"
+  ]
+}
