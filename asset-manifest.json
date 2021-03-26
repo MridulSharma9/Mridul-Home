@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mridul-Home/static/css/main.90f53972.chunk.css",
-    "main.js": "/Mridul-Home/static/js/main.fb73e278.chunk.js",
-    "main.js.map": "/Mridul-Home/static/js/main.fb73e278.chunk.js.map",
+    "main.js": "/Mridul-Home/static/js/main.b0250da3.chunk.js",
+    "main.js.map": "/Mridul-Home/static/js/main.b0250da3.chunk.js.map",
     "runtime-main.js": "/Mridul-Home/static/js/runtime-main.b782f9e0.js",
     "runtime-main.js.map": "/Mridul-Home/static/js/runtime-main.b782f9e0.js.map",
     "static/css/2.e80bc768.chunk.css": "/Mridul-Home/static/css/2.e80bc768.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.e80bc768.chunk.css",
     "static/js/2.b36ae353.chunk.js",
     "static/css/main.90f53972.chunk.css",
-    "static/js/main.fb73e278.chunk.js"
+    "static/js/main.b0250da3.chunk.js"
   ]
 }
